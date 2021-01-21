@@ -4,7 +4,7 @@
   "description": "\"Node js cli app\"",
   "main": "./bin/index.js",
   "bin": {
-    "hello": "bin/index.js"
+    "name": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
